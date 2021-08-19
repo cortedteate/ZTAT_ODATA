@@ -5,4 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZTAT_EXAMPLEFORGIT.
 
-WRITE: 'Hello Git'.
+WRITE: 'Hello Git New Change'.
